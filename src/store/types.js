@@ -1,0 +1,5 @@
+export const INCREMENT = 'increment'
+export const TESTG = 'testg'
+export const DECREMENT = 'decrement'
+export const GET_LIST = 'getlist'
+export const SET_INDEX = 'setindex'
